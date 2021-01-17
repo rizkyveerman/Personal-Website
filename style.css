@@ -13,8 +13,6 @@
 }
 
 body, html{
-    width: 100vw;
-    height: 100vh;
     display: grid;
 }
 
@@ -143,8 +141,7 @@ a{
     margin-top: .5em;
 }
 
-
-.profile-icon{
-    height: 20px;
-    margin: 0 .6em;
+.socmed-icon i{
+    margin: .8em .2em;
+    color: var(--primary-color);
 }
